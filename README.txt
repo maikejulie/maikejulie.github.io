@@ -21,8 +21,8 @@ aj@lkn.io | @ajlkn
 
 Credits:
 
-	Demo Images:
-		Michael Domaradzki (md.photomerchant.net)
+	Images:
+		Maike Sonnewald
 
 	Icons:
 		Font Awesome (fontawesome.io)
