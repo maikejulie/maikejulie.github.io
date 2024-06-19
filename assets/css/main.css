@@ -2294,6 +2294,8 @@ input, select, textarea {
 		padding: 1.5em 0 1.5em 0;
 		z-index: 1;
 		overflow: hidden;
+		color: rgba(238, 235, 235, 0.85);
+		font-weight: bold
 	}
 
 		#nav > ul {
