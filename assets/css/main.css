@@ -2172,6 +2172,11 @@ input, select, textarea {
 			padding-top: 0;
 		}
 
+		.wrapper.style3 {
+			padding-top: 0;
+			padding-bottom: 0;
+		}		
+
 /* Header */
 
 	#header {
